@@ -1,0 +1,9 @@
+C:\Users\mc_jsamsa20\source\repos\DVD\DVD\bin\Debug\DVD.exe.config
+C:\Users\mc_jsamsa20\source\repos\DVD\DVD\bin\Debug\DVD.exe
+C:\Users\mc_jsamsa20\source\repos\DVD\DVD\bin\Debug\DVD.pdb
+C:\Users\mc_jsamsa20\source\repos\DVD\DVD\obj\Debug\DVD.csprojAssemblyReference.cache
+C:\Users\mc_jsamsa20\source\repos\DVD\DVD\obj\Debug\DVD.CRT.resources
+C:\Users\mc_jsamsa20\source\repos\DVD\DVD\obj\Debug\DVD.Properties.Resources.resources
+C:\Users\mc_jsamsa20\source\repos\DVD\DVD\obj\Debug\DVD.csproj.GenerateResource.cache
+C:\Users\mc_jsamsa20\source\repos\DVD\DVD\obj\Debug\DVD.exe
+C:\Users\mc_jsamsa20\source\repos\DVD\DVD\obj\Debug\DVD.pdb
